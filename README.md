@@ -45,8 +45,7 @@ Steps:
    ```
    Or use the .bat files.
 5. In the UI:
-   - Load the 
-   - Add / enable LoRA: choose the adapter; ensure it matches quantization (already 4-bit base).
-   base model.
-   - Add the system prompt and customise the parameters.
-   - Chat, then disable LoRA to compare baseline vs adapted outputs.
+   - Load the base model.
+   - Add/enable LoRA: choose the adapter.
+   - Add the system prompt and customise the model parameters.
+   - Chat
