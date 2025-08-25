@@ -1,0 +1,1902 @@
+[
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "DASH",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:30",
+      "lunch_time": "14:00",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Paleo",
+      "app_behavior": "Community participant",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Sedentary",
+      "breakfast_time": "06:00",
+      "lunch_time": "12:30",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Low-carb",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:00",
+      "lunch_time": "12:45",
+      "dinner_time": "17:00",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Grazing",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "No restrictions",
+      "app_behavior": "Daily active user",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Expert",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:00",
+      "lunch_time": "13:00",
+      "dinner_time": "17:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "Keto",
+      "app_behavior": "Passive user",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "06:30",
+      "lunch_time": "12:30",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "No restrictions",
+      "app_behavior": "Daily active user",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:45",
+      "lunch_time": "13:00",
+      "dinner_time": "17:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Whole30",
+      "app_behavior": "Power user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:45",
+      "lunch_time": "11:45",
+      "dinner_time": "19:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Gluten-free",
+      "app_behavior": "Recipe saver",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:00",
+      "lunch_time": "13:30",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Whole30",
+      "app_behavior": "Feature explorer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Lightly active",
+      "breakfast_time": "08:45",
+      "lunch_time": "11:45",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Morning",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "DASH",
+      "app_behavior": "Goal tracker",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Lightly active",
+      "breakfast_time": "08:15",
+      "lunch_time": "12:45",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Raw food",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Lightly active",
+      "breakfast_time": "09:00",
+      "lunch_time": "12:30",
+      "dinner_time": "21:15",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "High-protein",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Very active",
+      "breakfast_time": "06:45",
+      "lunch_time": "12:30",
+      "dinner_time": "17:15",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Dairy-free",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:15",
+      "lunch_time": "11:15",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Gluten-free",
+      "app_behavior": "Habit tracker",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Expert",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:45",
+      "lunch_time": "11:00",
+      "dinner_time": "20:00",
+      "app_usage_hours": "Night",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "Raw food",
+      "app_behavior": "Recipe saver",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Very active",
+      "breakfast_time": "06:15",
+      "lunch_time": "11:15",
+      "dinner_time": "20:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Whole30",
+      "app_behavior": "Community participant",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "06:30",
+      "lunch_time": "12:00",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "High-protein",
+      "app_behavior": "Habit tracker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Expert",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:00",
+      "lunch_time": "13:00",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Portion controller",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "Vegan",
+      "app_behavior": "Streaky user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Sedentary",
+      "breakfast_time": "10:15",
+      "lunch_time": "14:45",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Flexitarian",
+      "app_behavior": "Habit tracker",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Expert",
+      "activity_level": "Lightly active",
+      "breakfast_time": "10:30",
+      "lunch_time": "12:15",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Grazing",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "Dairy-free",
+      "app_behavior": "Notification ignorer",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Moderately active",
+      "breakfast_time": "08:15",
+      "lunch_time": "12:30",
+      "dinner_time": "19:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Whole30",
+      "app_behavior": "Feature explorer",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:30",
+      "lunch_time": "14:00",
+      "dinner_time": "20:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "Vegetarian",
+      "app_behavior": "Notification responder",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Expert",
+      "activity_level": "Lightly active",
+      "breakfast_time": "06:30",
+      "lunch_time": "14:15",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "Gluten-free",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Advanced",
+      "activity_level": "Sedentary",
+      "breakfast_time": "09:15",
+      "lunch_time": "12:15",
+      "dinner_time": "18:45",
+      "app_usage_hours": "Night",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "High-protein",
+      "app_behavior": "Goal tracker",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "10:30",
+      "lunch_time": "11:00",
+      "dinner_time": "17:30",
+      "app_usage_hours": "Night",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Portion controller",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Recipe saver",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Sedentary",
+      "breakfast_time": "06:15",
+      "lunch_time": "14:45",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Mediterranean",
+      "app_behavior": "Habit tracker",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Beginner",
+      "activity_level": "Sedentary",
+      "breakfast_time": "06:30",
+      "lunch_time": "12:45",
+      "dinner_time": "17:15",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Keto",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Advanced",
+      "activity_level": "Moderately active",
+      "breakfast_time": "09:00",
+      "lunch_time": "14:00",
+      "dinner_time": "19:45",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Raw food",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "10:15",
+      "lunch_time": "13:30",
+      "dinner_time": "19:00",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "No restrictions",
+      "app_behavior": "Streaky user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Advanced",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:00",
+      "lunch_time": "14:15",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Raw food",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Expert",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:30",
+      "lunch_time": "13:15",
+      "dinner_time": "21:15",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Raw food",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Lightly active",
+      "breakfast_time": "06:30",
+      "lunch_time": "14:45",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Paleo",
+      "app_behavior": "Quick checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Beginner",
+      "activity_level": "Very active",
+      "breakfast_time": "06:45",
+      "lunch_time": "13:15",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Portion controller",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "No restrictions",
+      "app_behavior": "Notification ignorer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "10:15",
+      "lunch_time": "14:30",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Omnivore",
+      "app_behavior": "Quick checker",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:15",
+      "lunch_time": "14:00",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Raw food",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Expert",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:15",
+      "lunch_time": "12:15",
+      "dinner_time": "18:45",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Gluten-free",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:30",
+      "lunch_time": "13:30",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Paleo",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "10:00",
+      "lunch_time": "13:45",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Morning",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "DASH",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Advanced",
+      "activity_level": "Sedentary",
+      "breakfast_time": "10:15",
+      "lunch_time": "11:45",
+      "dinner_time": "17:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Keto",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Beginner",
+      "activity_level": "Moderately active",
+      "breakfast_time": "10:15",
+      "lunch_time": "13:30",
+      "dinner_time": "17:30",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Mediterranean",
+      "app_behavior": "Recipe saver",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Very active",
+      "breakfast_time": "08:45",
+      "lunch_time": "12:00",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Night",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Dairy-free",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Sedentary",
+      "breakfast_time": "08:00",
+      "lunch_time": "14:30",
+      "dinner_time": "19:15",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "Mediterranean",
+      "app_behavior": "Notification responder",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Sedentary",
+      "breakfast_time": "09:45",
+      "lunch_time": "14:15",
+      "dinner_time": "19:45",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Social eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Goal tracker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Expert",
+      "activity_level": "Sedentary",
+      "breakfast_time": "09:45",
+      "lunch_time": "12:45",
+      "dinner_time": "20:00",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Social eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Flexitarian",
+      "app_behavior": "Quick checker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "09:00",
+      "lunch_time": "13:15",
+      "dinner_time": "21:45",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Gluten-free",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:30",
+      "lunch_time": "13:00",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Social eater",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Whole30",
+      "app_behavior": "Quick checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:30",
+      "lunch_time": "12:15",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Night",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "Plant-based",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "09:15",
+      "lunch_time": "13:45",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Omnivore",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "08:45",
+      "lunch_time": "12:15",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Vegan",
+      "app_behavior": "Notification responder",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Lightly active",
+      "breakfast_time": "06:00",
+      "lunch_time": "11:00",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Whole30",
+      "app_behavior": "Power user",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "08:45",
+      "lunch_time": "13:45",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "DASH",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:15",
+      "lunch_time": "11:45",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Night",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:45",
+      "lunch_time": "13:30",
+      "dinner_time": "17:00",
+      "app_usage_hours": "Night",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Keto",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Moderately active",
+      "breakfast_time": "09:30",
+      "lunch_time": "13:00",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Paleo",
+      "app_behavior": "Recipe saver",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "08:45",
+      "lunch_time": "14:15",
+      "dinner_time": "19:15",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Low-carb",
+      "app_behavior": "Power user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Extremely active",
+      "breakfast_time": "09:30",
+      "lunch_time": "13:00",
+      "dinner_time": "17:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "Vegetarian",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:30",
+      "lunch_time": "13:45",
+      "dinner_time": "19:45",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "No restrictions",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "06:45",
+      "lunch_time": "14:15",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Pescatarian",
+      "app_behavior": "Meal planner",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:30",
+      "lunch_time": "14:00",
+      "dinner_time": "19:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "Mediterranean",
+      "app_behavior": "Power user",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Very active",
+      "breakfast_time": "09:00",
+      "lunch_time": "13:00",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Flexitarian",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Very active",
+      "breakfast_time": "08:45",
+      "lunch_time": "14:00",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Night",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Feature explorer",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Sedentary",
+      "breakfast_time": "10:45",
+      "lunch_time": "14:30",
+      "dinner_time": "21:45",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "Vegetarian",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Beginner",
+      "activity_level": "Very active",
+      "breakfast_time": "08:15",
+      "lunch_time": "12:00",
+      "dinner_time": "17:00",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Paleo",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "09:30",
+      "lunch_time": "11:30",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Social sharer",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "10:00",
+      "lunch_time": "13:30",
+      "dinner_time": "21:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Paleo",
+      "app_behavior": "Streaky user",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Advanced",
+      "activity_level": "Sedentary",
+      "breakfast_time": "10:15",
+      "lunch_time": "13:15",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "07:15",
+      "lunch_time": "14:30",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "Lactose intolerant",
+      "app_behavior": "Daily active user",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:30",
+      "lunch_time": "11:45",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "Keto",
+      "app_behavior": "Community participant",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "06:00",
+      "lunch_time": "13:45",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Paleo",
+      "app_behavior": "Power user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Very active",
+      "breakfast_time": "09:15",
+      "lunch_time": "12:00",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Paleo",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:15",
+      "lunch_time": "11:45",
+      "dinner_time": "19:45",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Weekend warrior",
+      "diet": "Low-carb",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "09:00",
+      "lunch_time": "12:45",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Pescatarian",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Extremely active",
+      "breakfast_time": "09:00",
+      "lunch_time": "12:15",
+      "dinner_time": "20:15",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Portion controller",
+      "eat_time_pattern": "5-6 small meals",
+      "diet": "No restrictions",
+      "app_behavior": "Passive user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Moderately active",
+      "breakfast_time": "06:30",
+      "lunch_time": "14:15",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "DASH",
+      "app_behavior": "Passive user",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Sedentary",
+      "breakfast_time": "07:45",
+      "lunch_time": "12:00",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Grazing",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Dairy-free",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "10:30",
+      "lunch_time": "14:45",
+      "dinner_time": "19:45",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Vegan",
+      "app_behavior": "Passive user",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Always",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Sedentary",
+      "breakfast_time": "07:30",
+      "lunch_time": "14:15",
+      "dinner_time": "20:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Flexitarian",
+      "app_behavior": "Feature explorer",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Very active",
+      "breakfast_time": "08:00",
+      "lunch_time": "13:30",
+      "dinner_time": "19:00",
+      "app_usage_hours": "Night",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "Whole30",
+      "app_behavior": "Community participant",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Advanced",
+      "activity_level": "Lightly active",
+      "breakfast_time": "10:15",
+      "lunch_time": "12:30",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "No restrictions",
+      "app_behavior": "Goal tracker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:30",
+      "lunch_time": "11:00",
+      "dinner_time": "20:30",
+      "app_usage_hours": "Morning",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Irregular timing",
+      "diet": "Pescatarian",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "09:15",
+      "lunch_time": "11:00",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "Raw food",
+      "app_behavior": "Notification ignorer",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Moderately active",
+      "breakfast_time": "06:00",
+      "lunch_time": "13:45",
+      "dinner_time": "17:15",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Dairy-free",
+      "app_behavior": "Notification responder",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Lightly active",
+      "breakfast_time": "07:00",
+      "lunch_time": "12:15",
+      "dinner_time": "19:15",
+      "app_usage_hours": "Night",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Frequent snacking",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "Vegetarian",
+      "app_behavior": "Daily active user",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:15",
+      "lunch_time": "13:45",
+      "dinner_time": "21:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Brunch lover (10 AM-12 PM)",
+      "diet": "Omnivore",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Moderately active",
+      "breakfast_time": "07:00",
+      "lunch_time": "12:15",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Night",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Skip breakfast",
+      "diet": "Vegetarian",
+      "app_behavior": "Meal planner",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Expert",
+      "activity_level": "Moderately active",
+      "breakfast_time": "08:00",
+      "lunch_time": "14:45",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Regular meals",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "Raw food",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Advanced",
+      "activity_level": "Very active",
+      "breakfast_time": "07:45",
+      "lunch_time": "11:00",
+      "dinner_time": "18:15",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Stress eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Raw food",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Very active",
+      "breakfast_time": "10:00",
+      "lunch_time": "14:30",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Night",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Intermittent fasting",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Dairy-free",
+      "app_behavior": "Passive user",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Beginner",
+      "activity_level": "Moderately active",
+      "breakfast_time": "09:00",
+      "lunch_time": "11:45",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Standard (7-9 AM breakfast)",
+      "diet": "DASH",
+      "app_behavior": "Photo uploader",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "09:15",
+      "lunch_time": "12:00",
+      "dinner_time": "21:45",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Low",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Consistent schedule",
+      "diet": "Keto",
+      "app_behavior": "Weekend warrior",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Moderately active",
+      "breakfast_time": "10:00",
+      "lunch_time": "12:00",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "No restrictions",
+      "app_behavior": "Meal planner",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:45",
+      "lunch_time": "14:45",
+      "dinner_time": "17:00",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Fast eater",
+      "eat_time_pattern": "Late starter (9-11 AM breakfast)",
+      "diet": "No restrictions",
+      "app_behavior": "Weekly checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Intermediate",
+      "activity_level": "Extremely active",
+      "breakfast_time": "07:30",
+      "lunch_time": "13:30",
+      "dinner_time": "20:45",
+      "app_usage_hours": "Morning",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Flexitarian",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "10:30",
+      "lunch_time": "12:00",
+      "dinner_time": "21:00",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Night owl (late dinner)",
+      "diet": "Keto",
+      "app_behavior": "Community participant",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Extremely active",
+      "breakfast_time": "08:15",
+      "lunch_time": "13:45",
+      "dinner_time": "18:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Medium",
+      "goal_oriented": false,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Slow eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "Pescatarian",
+      "app_behavior": "Streaky user",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Sometimes",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "07:45",
+      "lunch_time": "11:30",
+      "dinner_time": "18:00",
+      "app_usage_hours": "Evening",
+      "notification_preference": "Medium",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Emotional eater",
+      "eat_time_pattern": "3 large meals",
+      "diet": "Pescatarian",
+      "app_behavior": "Deep diver",
+      "meal_frequency": "6+ times/day",
+      "snack_frequency": "Never",
+      "cooking_skill": "Beginner",
+      "activity_level": "Very active",
+      "breakfast_time": "09:15",
+      "lunch_time": "14:30",
+      "dinner_time": "21:30",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Low",
+      "goal_oriented": false,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Grazing",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "Allergic to nuts",
+      "app_behavior": "Calorie counter",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Very active",
+      "breakfast_time": "09:15",
+      "lunch_time": "14:00",
+      "dinner_time": "17:45",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Grazing",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "No restrictions",
+      "app_behavior": "Habit tracker",
+      "meal_frequency": "4-5 times/day",
+      "snack_frequency": "Often",
+      "cooking_skill": "Advanced",
+      "activity_level": "Extremely active",
+      "breakfast_time": "06:00",
+      "lunch_time": "14:00",
+      "dinner_time": "20:00",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Mindful eater",
+      "eat_time_pattern": "Late night snacker",
+      "diet": "DASH",
+      "app_behavior": "Community participant",
+      "meal_frequency": "3 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Doesn't cook",
+      "activity_level": "Sedentary",
+      "breakfast_time": "07:30",
+      "lunch_time": "14:45",
+      "dinner_time": "18:00",
+      "app_usage_hours": "Afternoon",
+      "notification_preference": "Off",
+      "goal_oriented": true,
+      "social_features_user": true
+    }
+  },
+  {
+    "user_profile": {
+      "eat_habit": "Clean plate club",
+      "eat_time_pattern": "Early bird (6-7 AM breakfast)",
+      "diet": "High-protein",
+      "app_behavior": "Quick checker",
+      "meal_frequency": "1-2 times/day",
+      "snack_frequency": "Rarely",
+      "cooking_skill": "Beginner",
+      "activity_level": "Extremely active",
+      "breakfast_time": "07:00",
+      "lunch_time": "14:30",
+      "dinner_time": "19:15",
+      "app_usage_hours": "Throughout day",
+      "notification_preference": "High",
+      "goal_oriented": true,
+      "social_features_user": false
+    }
+  }
+]

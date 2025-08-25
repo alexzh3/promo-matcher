@@ -1,0 +1,101 @@
+id,name,eat_habit,eat_time_pattern,diet,app_behavior,meal_frequency,snack_frequency,cooking_skill,activity_level,breakfast_time,lunch_time,dinner_time,app_usage_hours,notification_preference,goal_oriented,social_features_user
+user_001,person 1,Mindful eater,Standard (7-9 AM breakfast),Paleo,Quick checker,3 times/day,Rarely,Expert,Lightly active,07:00,14:15,19:30,Night,High,False,True
+user_002,person 2,Regular meals,Late starter (9-11 AM breakfast),Keto,Power user,3 times/day,Rarely,Doesn't cook,Very active,07:15,12:15,21:30,Afternoon,Medium,False,True
+user_003,person 3,Regular meals,Early bird (6-7 AM breakfast),Raw food,Deep diver,1-2 times/day,Often,Expert,Lightly active,10:45,14:00,20:15,Morning,High,True,False
+user_004,person 4,Frequent snacking,5-6 small meals,Dairy-free,Quick checker,3 times/day,Sometimes,Doesn't cook,Moderately active,10:00,13:30,19:00,Night,Low,True,True
+user_005,person 5,Regular meals,Irregular timing,Raw food,Photo uploader,4-5 times/day,Never,Doesn't cook,Very active,08:45,14:15,21:00,Evening,High,False,False
+user_006,person 6,Slow eater,Irregular timing,Paleo,Feature explorer,3 times/day,Always,Doesn't cook,Moderately active,09:00,13:15,19:15,Evening,Medium,False,False
+user_007,person 7,Frequent snacking,3 large meals,No restrictions,Habit tracker,3 times/day,Rarely,Beginner,Very active,09:15,12:15,17:00,Night,Off,False,True
+user_008,person 8,Stress eater,Early bird (6-7 AM breakfast),Lactose intolerant,Weekend warrior,3 times/day,Rarely,Beginner,Moderately active,10:15,13:00,19:45,Night,Low,False,False
+user_009,person 9,Intermittent fasting,3 large meals,Omnivore,Power user,3 times/day,Often,Advanced,Sedentary,06:30,13:30,18:15,Morning,Low,False,False
+user_010,person 10,Portion controller,Weekend warrior,Whole30,Community participant,3 times/day,Often,Intermediate,Very active,08:15,14:00,20:00,Evening,Medium,True,False
+user_011,person 11,Fast eater,Early bird (6-7 AM breakfast),Mediterranean,Deep diver,3 times/day,Often,Beginner,Extremely active,07:30,12:00,19:30,Night,High,False,False
+user_012,person 12,Slow eater,Consistent schedule,Dairy-free,Recipe saver,3 times/day,Rarely,Expert,Moderately active,07:00,11:00,19:45,Evening,Low,False,False
+user_013,person 13,Grazing,Late starter (9-11 AM breakfast),Whole30,Recipe saver,1-2 times/day,Never,Advanced,Sedentary,10:45,14:00,18:30,Afternoon,High,False,True
+user_014,person 14,Emotional eater,Brunch lover (10 AM-12 PM),Whole30,Notification responder,4-5 times/day,Sometimes,Advanced,Moderately active,07:00,12:15,19:45,Morning,Medium,False,True
+user_015,person 15,Emotional eater,Early bird (6-7 AM breakfast),No restrictions,Quick checker,4-5 times/day,Rarely,Intermediate,Lightly active,09:30,11:30,20:30,Afternoon,Medium,True,True
+user_016,person 16,Clean plate club,Irregular timing,High-protein,Meal planner,1-2 times/day,Often,Beginner,Lightly active,09:15,13:45,20:00,Afternoon,Low,False,True
+user_017,person 17,Fast eater,Late night snacker,Dairy-free,Power user,3 times/day,Often,Doesn't cook,Very active,06:15,11:00,20:45,Afternoon,Low,False,False
+user_018,person 18,Clean plate club,Skip breakfast,Paleo,Deep diver,3 times/day,Always,Advanced,Very active,06:30,13:00,21:30,Afternoon,Off,False,True
+user_019,person 19,Grazing,Late night snacker,Omnivore,Weekly checker,1-2 times/day,Rarely,Doesn't cook,Lightly active,08:30,14:30,18:30,Throughout day,Low,True,True
+user_020,person 20,Slow eater,Irregular timing,Dairy-free,Feature explorer,1-2 times/day,Sometimes,Expert,Moderately active,10:30,14:30,18:30,Night,Off,True,False
+user_021,person 21,Mindful eater,Standard (7-9 AM breakfast),Keto,Streaky user,4-5 times/day,Sometimes,Expert,Lightly active,10:30,12:30,20:30,Night,Off,False,True
+user_022,person 22,Fast eater,3 large meals,Paleo,Weekend warrior,6+ times/day,Rarely,Advanced,Extremely active,09:30,12:15,21:00,Afternoon,Off,False,True
+user_023,person 23,Clean plate club,Late night snacker,Raw food,Notification responder,1-2 times/day,Sometimes,Doesn't cook,Sedentary,10:15,11:45,20:45,Morning,High,False,False
+user_024,person 24,Clean plate club,Early bird (6-7 AM breakfast),Pescatarian,Social sharer,3 times/day,Rarely,Beginner,Extremely active,06:15,14:45,20:45,Morning,Low,True,False
+user_025,person 25,Intermittent fasting,Consistent schedule,Whole30,Calorie counter,3 times/day,Often,Expert,Very active,08:45,12:00,18:30,Throughout day,Low,True,True
+user_026,person 26,Regular meals,Brunch lover (10 AM-12 PM),Whole30,Goal tracker,3 times/day,Sometimes,Doesn't cook,Moderately active,07:30,14:15,19:30,Morning,Off,True,True
+user_027,person 27,Grazing,Early bird (6-7 AM breakfast),Paleo,Habit tracker,4-5 times/day,Rarely,Advanced,Extremely active,10:15,14:30,18:30,Morning,Off,True,True
+user_028,person 28,Slow eater,Late starter (9-11 AM breakfast),Lactose intolerant,Power user,4-5 times/day,Never,Expert,Extremely active,10:15,13:30,19:30,Evening,Low,False,True
+user_029,person 29,Emotional eater,Late night snacker,Flexitarian,Goal tracker,1-2 times/day,Often,Doesn't cook,Sedentary,08:00,13:15,20:45,Throughout day,Medium,True,False
+user_030,person 30,Portion controller,Irregular timing,Whole30,Recipe saver,3 times/day,Sometimes,Intermediate,Sedentary,07:00,12:00,19:30,Morning,Medium,False,True
+user_031,person 31,Stress eater,Night owl (late dinner),Lactose intolerant,Social sharer,1-2 times/day,Always,Beginner,Moderately active,08:30,13:45,19:15,Throughout day,Off,True,False
+user_032,person 32,Emotional eater,Weekend warrior,Mediterranean,Quick checker,1-2 times/day,Often,Intermediate,Moderately active,06:00,14:45,18:15,Afternoon,High,True,False
+user_033,person 33,Portion controller,Standard (7-9 AM breakfast),Paleo,Notification responder,1-2 times/day,Always,Intermediate,Sedentary,09:15,13:15,17:00,Throughout day,High,False,False
+user_034,person 34,Stress eater,Late starter (9-11 AM breakfast),Whole30,Recipe saver,1-2 times/day,Often,Advanced,Moderately active,09:00,11:45,21:00,Night,Off,True,True
+user_035,person 35,Slow eater,Brunch lover (10 AM-12 PM),High-protein,Habit tracker,6+ times/day,Never,Intermediate,Extremely active,09:00,11:45,20:45,Throughout day,Medium,True,True
+user_036,person 36,Grazing,Brunch lover (10 AM-12 PM),Vegan,Weekly checker,6+ times/day,Never,Doesn't cook,Extremely active,10:15,14:00,19:45,Morning,Medium,False,False
+user_037,person 37,Fast eater,Early bird (6-7 AM breakfast),Low-carb,Weekend warrior,1-2 times/day,Always,Doesn't cook,Moderately active,09:30,14:45,18:45,Night,High,False,True
+user_038,person 38,Intermittent fasting,Skip breakfast,Pescatarian,Habit tracker,4-5 times/day,Sometimes,Expert,Very active,09:00,14:15,20:15,Evening,Low,False,False
+user_039,person 39,Fast eater,Skip breakfast,Mediterranean,Streaky user,6+ times/day,Rarely,Advanced,Extremely active,08:00,12:30,18:30,Evening,High,False,True
+user_040,person 40,Emotional eater,Early bird (6-7 AM breakfast),Paleo,Calorie counter,3 times/day,Never,Doesn't cook,Very active,10:30,13:00,18:15,Night,High,False,False
+user_041,person 41,Regular meals,Brunch lover (10 AM-12 PM),Whole30,Photo uploader,6+ times/day,Sometimes,Beginner,Extremely active,08:15,14:00,17:15,Afternoon,High,True,False
+user_042,person 42,Frequent snacking,Skip breakfast,Vegetarian,Deep diver,6+ times/day,Never,Beginner,Very active,09:00,13:45,17:45,Morning,Medium,False,True
+user_043,person 43,Emotional eater,Late starter (9-11 AM breakfast),High-protein,Quick checker,4-5 times/day,Never,Doesn't cook,Extremely active,09:15,11:00,20:00,Morning,Medium,True,False
+user_044,person 44,Portion controller,3 large meals,Pescatarian,Daily active user,3 times/day,Often,Intermediate,Very active,10:00,13:30,20:00,Afternoon,Off,True,True
+user_045,person 45,Slow eater,Brunch lover (10 AM-12 PM),Paleo,Recipe saver,3 times/day,Often,Advanced,Extremely active,06:45,14:45,21:15,Evening,Low,False,True
+user_046,person 46,Fast eater,5-6 small meals,Plant-based,Passive user,3 times/day,Often,Advanced,Moderately active,09:15,11:00,18:30,Morning,Low,False,True
+user_047,person 47,Slow eater,Late night snacker,Whole30,Feature explorer,4-5 times/day,Sometimes,Intermediate,Lightly active,08:45,14:45,21:00,Morning,High,True,True
+user_048,person 48,Emotional eater,Brunch lover (10 AM-12 PM),Mediterranean,Weekly checker,1-2 times/day,Never,Doesn't cook,Moderately active,09:00,14:45,18:30,Morning,Off,True,True
+user_049,person 49,Emotional eater,Skip breakfast,High-protein,Weekend warrior,4-5 times/day,Rarely,Intermediate,Moderately active,10:00,13:45,21:00,Evening,Low,False,True
+user_050,person 50,Emotional eater,Late starter (9-11 AM breakfast),Whole30,Weekly checker,3 times/day,Sometimes,Intermediate,Moderately active,08:15,12:45,21:45,Morning,Off,False,False
+user_051,person 51,Clean plate club,Weekend warrior,Raw food,Recipe saver,1-2 times/day,Always,Beginner,Moderately active,10:30,13:15,19:15,Throughout day,Medium,True,False
+user_052,person 52,Stress eater,Irregular timing,Paleo,Quick checker,1-2 times/day,Sometimes,Doesn't cook,Moderately active,10:15,12:00,18:15,Afternoon,High,True,True
+user_053,person 53,Frequent snacking,3 large meals,Raw food,Habit tracker,1-2 times/day,Always,Intermediate,Sedentary,09:15,12:45,20:15,Night,Low,False,True
+user_054,person 54,Mindful eater,5-6 small meals,Lactose intolerant,Weekly checker,4-5 times/day,Always,Beginner,Extremely active,10:15,12:15,19:30,Morning,Low,False,True
+user_055,person 55,Grazing,Consistent schedule,No restrictions,Photo uploader,3 times/day,Never,Advanced,Sedentary,07:00,14:45,18:30,Evening,Medium,False,True
+user_056,person 56,Grazing,Weekend warrior,Paleo,Passive user,6+ times/day,Never,Doesn't cook,Extremely active,10:45,14:15,20:15,Afternoon,Medium,False,True
+user_057,person 57,Mindful eater,Brunch lover (10 AM-12 PM),Lactose intolerant,Streaky user,4-5 times/day,Rarely,Advanced,Moderately active,07:00,14:30,18:15,Throughout day,High,True,False
+user_058,person 58,Social eater,Late night snacker,Dairy-free,Notification responder,3 times/day,Never,Intermediate,Sedentary,08:45,13:15,19:45,Night,Low,False,False
+user_059,person 59,Emotional eater,Early bird (6-7 AM breakfast),Paleo,Deep diver,6+ times/day,Rarely,Intermediate,Moderately active,08:45,11:45,20:15,Throughout day,Off,False,False
+user_060,person 60,Stress eater,Brunch lover (10 AM-12 PM),Lactose intolerant,Weekend warrior,6+ times/day,Often,Beginner,Moderately active,07:00,14:00,18:15,Evening,Medium,False,True
+user_061,person 61,Clean plate club,Early bird (6-7 AM breakfast),High-protein,Social sharer,3 times/day,Never,Doesn't cook,Sedentary,10:30,11:30,18:30,Morning,High,False,False
+user_062,person 62,Grazing,Night owl (late dinner),Vegetarian,Weekly checker,1-2 times/day,Often,Doesn't cook,Moderately active,08:45,11:45,18:30,Morning,High,False,True
+user_063,person 63,Emotional eater,Early bird (6-7 AM breakfast),Gluten-free,Power user,3 times/day,Always,Beginner,Moderately active,09:15,14:30,19:30,Evening,Off,True,True
+user_064,person 64,Emotional eater,5-6 small meals,Paleo,Habit tracker,4-5 times/day,Sometimes,Intermediate,Sedentary,06:15,13:45,18:30,Afternoon,Off,False,True
+user_065,person 65,Mindful eater,Weekend warrior,Dairy-free,Deep diver,4-5 times/day,Sometimes,Advanced,Very active,07:00,14:15,19:45,Evening,Medium,True,True
+user_066,person 66,Frequent snacking,Late night snacker,Lactose intolerant,Community participant,3 times/day,Rarely,Expert,Lightly active,09:45,13:00,18:30,Night,High,True,True
+user_067,person 67,Slow eater,Weekend warrior,Lactose intolerant,Notification responder,4-5 times/day,Never,Doesn't cook,Very active,07:30,11:00,18:30,Night,Medium,False,True
+user_068,person 68,Mindful eater,Weekend warrior,Whole30,Power user,6+ times/day,Often,Doesn't cook,Moderately active,08:45,14:00,21:30,Morning,High,True,True
+user_069,person 69,Intermittent fasting,Early bird (6-7 AM breakfast),High-protein,Weekend warrior,1-2 times/day,Never,Doesn't cook,Sedentary,08:45,14:00,17:15,Throughout day,High,False,True
+user_070,person 70,Portion controller,Standard (7-9 AM breakfast),Vegetarian,Recipe saver,1-2 times/day,Often,Intermediate,Moderately active,06:45,13:00,18:15,Night,Medium,True,True
+user_071,person 71,Intermittent fasting,5-6 small meals,No restrictions,Deep diver,4-5 times/day,Never,Doesn't cook,Moderately active,10:30,11:00,21:30,Evening,Medium,False,False
+user_072,person 72,Fast eater,5-6 small meals,Paleo,Recipe saver,4-5 times/day,Never,Doesn't cook,Extremely active,07:00,11:00,19:00,Night,High,True,True
+user_073,person 73,Clean plate club,Late night snacker,Low-carb,Weekend warrior,1-2 times/day,Never,Advanced,Moderately active,09:00,13:45,21:30,Evening,High,False,True
+user_074,person 74,Emotional eater,Skip breakfast,High-protein,Social sharer,6+ times/day,Never,Intermediate,Extremely active,06:45,12:15,20:15,Morning,Medium,False,False
+user_075,person 75,Emotional eater,Late night snacker,Dairy-free,Goal tracker,3 times/day,Never,Doesn't cook,Moderately active,09:45,14:15,21:00,Morning,Off,False,True
+user_076,person 76,Frequent snacking,Irregular timing,Keto,Community participant,1-2 times/day,Often,Doesn't cook,Moderately active,09:30,14:00,19:00,Evening,High,False,True
+user_077,person 77,Regular meals,5-6 small meals,Whole30,Weekly checker,4-5 times/day,Rarely,Advanced,Very active,08:45,12:45,17:30,Night,Off,False,True
+user_078,person 78,Frequent snacking,Skip breakfast,Flexitarian,Deep diver,6+ times/day,Rarely,Doesn't cook,Moderately active,09:15,12:30,19:00,Throughout day,Off,False,True
+user_079,person 79,Portion controller,3 large meals,Keto,Calorie counter,3 times/day,Sometimes,Intermediate,Sedentary,09:00,11:45,19:45,Night,Low,True,False
+user_080,person 80,Intermittent fasting,Late night snacker,Lactose intolerant,Calorie counter,1-2 times/day,Sometimes,Intermediate,Extremely active,08:45,13:30,21:30,Afternoon,High,False,True
+user_081,person 81,Clean plate club,Late night snacker,Raw food,Notification responder,4-5 times/day,Sometimes,Expert,Very active,07:45,13:30,17:00,Afternoon,Low,True,False
+user_082,person 82,Stress eater,Early bird (6-7 AM breakfast),High-protein,Deep diver,6+ times/day,Rarely,Beginner,Lightly active,07:30,14:45,18:15,Night,High,True,True
+user_083,person 83,Fast eater,Weekend warrior,Gluten-free,Weekend warrior,6+ times/day,Never,Beginner,Lightly active,07:15,11:30,21:00,Throughout day,High,True,True
+user_084,person 84,Intermittent fasting,Consistent schedule,Low-carb,Feature explorer,4-5 times/day,Often,Advanced,Very active,07:45,13:45,20:15,Morning,Medium,True,False
+user_085,person 85,Mindful eater,Consistent schedule,Lactose intolerant,Recipe saver,3 times/day,Never,Expert,Sedentary,09:45,14:15,17:00,Evening,Low,True,True
+user_086,person 86,Portion controller,Standard (7-9 AM breakfast),Mediterranean,Habit tracker,3 times/day,Often,Advanced,Moderately active,08:45,11:00,21:15,Afternoon,Low,False,True
+user_087,person 87,Stress eater,5-6 small meals,Flexitarian,Deep diver,1-2 times/day,Never,Intermediate,Lightly active,10:30,13:45,19:15,Afternoon,Low,False,False
+user_088,person 88,Social eater,Brunch lover (10 AM-12 PM),Omnivore,Meal planner,3 times/day,Often,Intermediate,Lightly active,10:30,13:30,20:45,Evening,Off,False,True
+user_089,person 89,Slow eater,Skip breakfast,Keto,Goal tracker,3 times/day,Sometimes,Doesn't cook,Extremely active,10:15,14:15,21:00,Afternoon,Off,True,True
+user_090,person 90,Stress eater,Irregular timing,High-protein,Recipe saver,3 times/day,Sometimes,Expert,Extremely active,08:45,11:15,19:30,Throughout day,Low,True,True
+user_091,person 91,Clean plate club,Irregular timing,Lactose intolerant,Recipe saver,6+ times/day,Rarely,Intermediate,Moderately active,08:30,14:45,19:30,Afternoon,Low,False,True
+user_092,person 92,Regular meals,Irregular timing,Keto,Calorie counter,6+ times/day,Rarely,Expert,Lightly active,10:30,12:15,21:30,Morning,High,True,False
+user_093,person 93,Fast eater,Irregular timing,Low-carb,Quick checker,1-2 times/day,Rarely,Beginner,Moderately active,09:00,14:45,18:30,Evening,High,True,True
+user_094,person 94,Frequent snacking,3 large meals,No restrictions,Weekend warrior,6+ times/day,Never,Advanced,Lightly active,10:15,11:45,20:00,Evening,Low,False,False
+user_095,person 95,Slow eater,3 large meals,Dairy-free,Goal tracker,4-5 times/day,Rarely,Beginner,Lightly active,09:15,14:00,20:00,Throughout day,High,True,False
+user_096,person 96,Grazing,Weekend warrior,Raw food,Weekend warrior,4-5 times/day,Sometimes,Beginner,Moderately active,09:45,13:00,19:15,Morning,Off,True,False
+user_097,person 97,Grazing,Weekend warrior,Gluten-free,Meal planner,4-5 times/day,Sometimes,Beginner,Sedentary,06:30,14:15,19:30,Night,Medium,True,True
+user_098,person 98,Stress eater,Late night snacker,Pescatarian,Habit tracker,1-2 times/day,Rarely,Advanced,Extremely active,08:45,12:45,17:15,Afternoon,Low,True,True
+user_099,person 99,Stress eater,Skip breakfast,Paleo,Meal planner,4-5 times/day,Never,Advanced,Moderately active,08:45,12:15,21:00,Evening,Medium,False,True
+user_100,person 100,Stress eater,Weekend warrior,Paleo,Notification ignorer,6+ times/day,Often,Doesn't cook,Very active,06:30,12:15,18:00,Evening,Medium,False,False
